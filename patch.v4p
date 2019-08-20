@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="9735" height="17265">
+  <BOUNDS type="Window" width="9255" height="17265">
   </BOUNDS>
   <NODE id="98" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="1755" top="4770" width="100" height="100">
@@ -199,7 +199,7 @@
   <NODE id="122" nodename="GetElement (HTML)" systemname="GetElement (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="12945" top="3315" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Selector" visible="1" values="|a|">
+  <PIN pinname="Selector" visible="1" values="|a:link|">
   </PIN>
   <PIN pinname="Parent" visible="1">
   </PIN>
@@ -617,7 +617,7 @@
   </PIN>
   <PIN pinname="Attribute Names" visible="0" values="||">
   </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="|_ Tlahtolahuiltiliztli|">
+  <PIN pinname="Descriptive Name" visible="0" values="|_ CCH Azcapotzalco|">
   </PIN>
   </NODE>
   <NODE id="170" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
