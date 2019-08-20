@@ -149,9 +149,9 @@
   </PIN>
   </NODE>
   <NODE id="116" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="7275" top="1005" width="100" height="100">
+  <BOUNDS type="Node" left="7350" top="690" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|background-image|">
+  <PIN pinname="Input 1" visible="1" values="||">
   </PIN>
   <PIN pinname="Input 2" visible="1" values="|height|">
   </PIN>
@@ -173,9 +173,9 @@
   </PIN>
   </NODE>
   <NODE id="117" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8640" top="1725" width="100" height="100">
+  <BOUNDS type="Node" left="9015" top="1245" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|url(https://www.publicdomainpictures.net/pictures/230000/velka/black-jaguar-1505877111Ixn.jpg) no-repeat center|">
+  <PIN pinname="Input 1" visible="1" values="||">
   </PIN>
   <PIN pinname="Input 2" visible="1" values="|100%|">
   </PIN>
@@ -245,15 +245,15 @@
   </PIN>
   </NODE>
   <NODE id="122" nodename="GetElement (HTML)" systemname="GetElement (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="12945" top="3180" width="100" height="100">
+  <BOUNDS type="Node" left="12945" top="3315" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Selector" visible="1">
+  <PIN pinname="Selector" visible="1" values="|a:link|">
   </PIN>
   <PIN pinname="Parent" visible="1">
   </PIN>
   <PIN pinname="Refresh" visible="1">
   </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="|_ a|">
+  <PIN pinname="Descriptive Name" visible="0" values="|_ a:link|">
   </PIN>
   </NODE>
   <NODE id="123" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
@@ -261,9 +261,9 @@
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
-  <PIN pinname="Property Name" visible="1">
+  <PIN pinname="Property Name" visible="1" values="|color|">
   </PIN>
-  <PIN pinname="Property Value" visible="1">
+  <PIN pinname="Property Value" visible="1" values="|white|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -278,38 +278,72 @@
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="125" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="11235" top="2505" width="100" height="100">
+  <NODE id="128" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="7050" top="1875" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|color|">
+  <PIN pinname="Style In" visible="1">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|text-decoration|">
+  <PIN pinname="Property Name" visible="1" values="|background-image|">
   </PIN>
-  <PIN pinname="Input Count" visible="0" values="|2|">
+  <PIN pinname="Property Value" visible="1" values="|url(https://www.publicdomainpictures.net/pictures/230000/velka/black-jaguar-1505877111Ixn.jpg)|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="126" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="12090" top="2490" width="100" height="100">
+  <NODE id="133" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="11730" top="2595" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|white|">
+  <PIN pinname="Style In" visible="1">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|none|">
+  <PIN pinname="Property Name" visible="1" values="|text-decoration|">
   </PIN>
-  <PIN pinname="Input Count" visible="0" values="|2|">
+  <PIN pinname="Property Value" visible="1" values="|none|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="127" nodename="Cons (String)" systemname="Cons (String)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13245" top="2475" width="100" height="100">
+  <NODE id="134" nodename="GetElement (HTML)" systemname="GetElement (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="16125" top="3300" width="100" height="100">
   </BOUNDS>
-  <PIN pinname="Input 1" visible="1" values="|a:link|">
+  <PIN pinname="Selector" visible="1" values="|a:hover|">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|a:visited|">
+  <PIN pinname="Parent" visible="1">
   </PIN>
-  <PIN pinname="Input Count" visible="0" values="|2|">
+  <PIN pinname="Refresh" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="|_ a:link|">
+  </PIN>
+  </NODE>
+  <NODE id="135" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14715" top="3210" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Property Name" visible="1" values="|color|">
+  </PIN>
+  <PIN pinname="Property Value" visible="1" values="|white|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="136" nodename="ApplyStyle (HTML)" systemname="ApplyStyle (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="15060" top="4020" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style" visible="1">
+  </PIN>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="137" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14910" top="2580" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Property Name" visible="1" values="|text-decoration|">
+  </PIN>
+  <PIN pinname="Property Value" visible="1" values="|underline|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -346,10 +380,14 @@
   </LINK>
   <LINK srcnodeid="122" srcpinname="Layers Out" dstnodeid="124" dstpinname="Element">
   </LINK>
-  <LINK srcnodeid="125" srcpinname="Output" dstnodeid="123" dstpinname="Property Name">
+  <LINK srcnodeid="128" srcpinname="Style Out" dstnodeid="108" dstpinname="Style In">
   </LINK>
-  <LINK srcnodeid="126" srcpinname="Output" dstnodeid="123" dstpinname="Property Value">
+  <LINK srcnodeid="133" srcpinname="Style Out" dstnodeid="123" dstpinname="Style In">
   </LINK>
-  <LINK srcnodeid="127" srcpinname="Output" dstnodeid="122" dstpinname="Selector">
+  <LINK srcnodeid="137" srcpinname="Style Out" dstnodeid="135" dstpinname="Style In">
+  </LINK>
+  <LINK srcnodeid="134" srcpinname="Layers Out" dstnodeid="136" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="135" srcpinname="Style Out" dstnodeid="136" dstpinname="Style">
   </LINK>
   </PATCH>
