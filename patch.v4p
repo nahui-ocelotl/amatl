@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="9300" height="17265">
+  <BOUNDS type="Window" width="9330" height="17265">
   </BOUNDS>
   <NODE id="98" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="1755" top="4770" width="100" height="100">
@@ -1027,7 +1027,7 @@
   </PIN>
   <PIN pinname="Attribute Name" visible="1" values="|src|">
   </PIN>
-  <PIN pinname="Attribute Value" visible="1" values="|https://i.dlpng.com/static/png/474478_preview.png|">
+  <PIN pinname="Attribute Value" visible="1" values="|http://www.rubymotion.com/img/cases/bandcamp/app-logo.png|">
   </PIN>
   <PIN pinname="Attribute BinSize" visible="1">
   </PIN>
@@ -1101,7 +1101,7 @@
   </PIN>
   <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
-  <PIN pinname="Attribute Value" visible="1" values="|80|">
+  <PIN pinname="Attribute Value" visible="1" values="|40|">
   </PIN>
   <PIN pinname="Attribute BinSize" visible="1">
   </PIN>
