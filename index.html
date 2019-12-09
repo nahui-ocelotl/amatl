@@ -32,6 +32,15 @@
                 <div id="RendererMain"></div>
 		</div>
 		 
+		<p id="currentdate"></p>
+		 
+		<script>
+			{
+  			var d = new Date();
+ 			var n = d.toLocaleDateString();
+  			document.getElementById("currentdate").innerHTML = n;			
+			}
+		</script>
 		 
 	 </body>
 </html>
