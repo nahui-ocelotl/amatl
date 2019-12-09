@@ -99,7 +99,7 @@
   </PIN>
   <PIN pinname="Parent" visible="1">
   </PIN>
-  <PIN pinname="Text" visible="1" values="|test|">
+  <PIN pinname="Text" visible="1" values="||">
   </PIN>
   <PIN pinname="Enabled" visible="1">
   </PIN>
@@ -171,7 +171,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-2 bg-dark|">
+  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -187,7 +187,7 @@
   </PIN>
   <PIN pinname="Parent" visible="1">
   </PIN>
-  <PIN pinname="Text" visible="1" values="|test|">
+  <PIN pinname="Text" visible="1" values="||">
   </PIN>
   <PIN pinname="Enabled" visible="1">
   </PIN>
@@ -215,7 +215,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-2 bg-dark|">
+  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -299,6 +299,20 @@
   </BOUNDS>
   <PIN pinname="Layers out" visible="1">
   </PIN>
+  <PIN pinname="_ Layers out" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="247" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="7770" top="6930" width="360" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|h1|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
@@ -336,10 +350,12 @@
   </LINK>
   <LINK srcnodeid="238" srcpinname="Output String" dstnodeid="236" dstpinname="Tag Name">
   </LINK>
-  <LINK srcnodeid="241" srcpinname="Output String" dstnodeid="239" dstpinname="Tag Name">
-  </LINK>
   <LINK srcnodeid="240" srcpinname="Output String" dstnodeid="239" dstpinname="Text">
   </LINK>
   <LINK srcnodeid="236" srcpinname="Layers Out" dstnodeid="239" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="222" srcpinname="Layers Out" dstnodeid="245" dstpinname="_ Layers out">
+  </LINK>
+  <LINK srcnodeid="247" srcpinname="Output String" dstnodeid="239" dstpinname="Tag Name">
   </LINK>
   </PATCH>
