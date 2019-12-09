@@ -991,7 +991,7 @@
   </BOUNDS>
   <PIN pinname="Intersperse String" visible="1" values="||">
   </PIN>
-  <PIN pinname="Input 1" visible="1" values="|xiuhpohualli/|">
+  <PIN pinname="Input 1" visible="1" values="|axcan/xiuhpohualli/|">
   </PIN>
   <PIN pinname="Input 2" visible="1">
   </PIN>
@@ -1175,7 +1175,7 @@
   </BOUNDS>
   <PIN pinname="Intersperse String" visible="1" values="||">
   </PIN>
-  <PIN pinname="Input 1" visible="1" values="|tonalpohualli/|">
+  <PIN pinname="Input 1" visible="1" values="|axcan/tonalpohualli/|">
   </PIN>
   <PIN pinname="Input 2" visible="1">
   </PIN>
@@ -1347,7 +1347,7 @@
   </BOUNDS>
   <PIN pinname="Intersperse String" visible="1" values="||">
   </PIN>
-  <PIN pinname="Input 1" visible="1" values="|tonalpohualli/|">
+  <PIN pinname="Input 1" visible="1" values="|axcan/tonalpohualli/|">
   </PIN>
   <PIN pinname="Input 2" visible="1">
   </PIN>
