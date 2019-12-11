@@ -379,7 +379,7 @@
   </PIN>
   <PIN pinname="Property Name" visible="1" values="|bottom|">
   </PIN>
-  <PIN pinname="Property Value" visible="1" values="|0|">
+  <PIN pinname="Property Value" visible="1" values="|20|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -389,9 +389,9 @@
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
-  <PIN pinname="Property Name" visible="1" values="|left|">
+  <PIN pinname="Property Name" visible="1" values="|right|">
   </PIN>
-  <PIN pinname="Property Value" visible="1" values="|36%|">
+  <PIN pinname="Property Value" visible="1" values="|5%|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
