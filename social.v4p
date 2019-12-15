@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="18705" height="21720">
+  <BOUNDS type="Window" width="20235" height="21720">
   </BOUNDS>
   <NODE id="1" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="3900" top="285" width="100" height="100">
@@ -39,7 +39,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-3 p-2 bg-black|">
+  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -901,11 +901,11 @@
   </PIN>
   </NODE>
   <NODE id="65" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="6075" top="3285" width="0" height="0">
+  <BOUNDS type="Box" left="9090" top="3600" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
+  <PIN pinname="Input String" visible="1" values="|50%|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -926,18 +926,6 @@
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="67" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="6165" top="6600" width="0" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
   <NODE id="68" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="5235" top="10470" width="100" height="100">
   </BOUNDS>
@@ -948,18 +936,6 @@
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
   <PIN pinname="Attribute BinSize" visible="1">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
-  <NODE id="69" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="5955" top="9645" width="0" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -978,18 +954,6 @@
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="71" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="6255" top="12900" width="0" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
   <NODE id="72" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="5415" top="17025" width="100" height="100">
   </BOUNDS>
@@ -1004,18 +968,6 @@
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="73" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="6150" top="16200" width="0" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
   <NODE id="74" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="5730" top="20220" width="100" height="100">
   </BOUNDS>
@@ -1026,18 +978,6 @@
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
   <PIN pinname="Attribute BinSize" visible="1">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
-  <NODE id="75" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="6465" top="19395" width="0" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|25%|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -1180,24 +1120,24 @@
   </LINK>
   <LINK srcnodeid="34" srcpinname="Layers Out" dstnodeid="66" dstpinname="Element">
   </LINK>
-  <LINK srcnodeid="67" srcpinname="Output String" dstnodeid="66" dstpinname="Attribute Value">
-  </LINK>
   <LINK srcnodeid="24" srcpinname="Layers Out" dstnodeid="68" dstpinname="Element">
-  </LINK>
-  <LINK srcnodeid="69" srcpinname="Output String" dstnodeid="68" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="4" srcpinname="Layers Out" dstnodeid="70" dstpinname="Element">
   </LINK>
-  <LINK srcnodeid="71" srcpinname="Output String" dstnodeid="70" dstpinname="Attribute Value">
-  </LINK>
   <LINK srcnodeid="12" srcpinname="Layers Out" dstnodeid="72" dstpinname="Element">
-  </LINK>
-  <LINK srcnodeid="73" srcpinname="Output String" dstnodeid="72" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="54" srcpinname="Layers Out" dstnodeid="74" dstpinname="Element">
   </LINK>
-  <LINK srcnodeid="75" srcpinname="Output String" dstnodeid="74" dstpinname="Attribute Value">
-  </LINK>
   <LINK srcnodeid="76" srcpinname="Output Node" dstnodeid="1" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="66" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="68" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="70" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="72" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="74" dstpinname="Attribute Value">
   </LINK>
   </PATCH>
