@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="28545" height="18675">
+  <BOUNDS type="Window" width="20235" height="18675">
   </BOUNDS>
   <NODE id="211" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="9570" top="285" width="100" height="100">
@@ -90,40 +90,8 @@
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
   </NODE>
-  <NODE id="222" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="975" top="4455" width="100" height="100">
-  </BOUNDS>
-  <PIN pinname="Style In" visible="1">
-  </PIN>
-  <PIN pinname="Tag Name" visible="1">
-  </PIN>
-  <PIN pinname="Parent" visible="1">
-  </PIN>
-  <PIN pinname="Text" visible="1" values="||">
-  </PIN>
-  <PIN pinname="Enabled" visible="1">
-  </PIN>
-  <PIN pinname="Attribute Names" visible="0" values="||">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
-  <NODE id="223" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="1815" top="5115" width="100" height="100">
-  </BOUNDS>
-  <PIN pinname="Element" visible="1">
-  </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|class|">
-  </PIN>
-  <PIN pinname="Attribute Value" visible="1">
-  </PIN>
-  <PIN pinname="Attribute BinSize" visible="1">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
   <NODE id="227" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8835" top="4320" width="100" height="100">
+  <BOUNDS type="Node" left="2910" top="4200" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -141,7 +109,7 @@
   </PIN>
   </NODE>
   <NODE id="228" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="9675" top="4980" width="100" height="100">
+  <BOUNDS type="Node" left="3750" top="4860" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -155,23 +123,11 @@
   </PIN>
   </NODE>
   <NODE id="229" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="10185" top="4290" width="2355" height="0">
+  <BOUNDS type="Box" left="4245" top="4170" width="2355" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-8 bg-secondary text-center|">
-  </PIN>
-  <PIN pinname="Rows" visible="0" values="|1|">
-  </PIN>
-  <PIN pinname="Descriptive Name" visible="0" values="||">
-  </PIN>
-  </NODE>
-  <NODE id="230" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="2310" top="4440" width="1800" height="0">
-  </BOUNDS>
-  <PIN pinname="SliceOffset" visible="1">
-  </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
+  <PIN pinname="Input String" visible="1" values="|col-9 bg-secondary text-center|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -215,7 +171,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
+  <PIN pinname="Input String" visible="1" values="|col-3 p-4 bg-black|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -223,7 +179,7 @@
   </PIN>
   </NODE>
   <NODE id="236" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8460" top="6225" width="100" height="100">
+  <BOUNDS type="Node" left="2535" top="6105" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -241,7 +197,7 @@
   </PIN>
   </NODE>
   <NODE id="237" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="9375" top="5640" width="1350" height="0">
+  <BOUNDS type="Box" left="3450" top="5520" width="1350" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -253,7 +209,7 @@
   </PIN>
   </NODE>
   <NODE id="238" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="8010" top="5640" width="360" height="0">
+  <BOUNDS type="Box" left="2085" top="5520" width="360" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -265,7 +221,7 @@
   </PIN>
   </NODE>
   <NODE id="239" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8085" top="7440" width="100" height="100">
+  <BOUNDS type="Node" left="2160" top="7320" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -283,7 +239,7 @@
   </PIN>
   </NODE>
   <NODE id="240" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="9000" top="6855" width="1350" height="0">
+  <BOUNDS type="Box" left="3075" top="6735" width="1350" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -295,7 +251,7 @@
   </PIN>
   </NODE>
   <NODE id="245" nodename="axcan/axcan.v4p" systemname="axcan/axcan" filename="axcan/axcan.v4p" componentmode="Hidden">
-  <BOUNDS type="Node" left="11085" top="15585" width="100" height="100">
+  <BOUNDS type="Node" left="13635" top="15990" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Layers out" visible="1">
   </PIN>
@@ -305,7 +261,7 @@
   </PIN>
   </NODE>
   <NODE id="247" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="7770" top="6930" width="360" height="0">
+  <BOUNDS type="Box" left="1845" top="6810" width="360" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -317,7 +273,7 @@
   </PIN>
   </NODE>
   <NODE id="248" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="10740" top="11220" width="100" height="100">
+  <BOUNDS type="Node" left="15150" top="15285" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -335,7 +291,7 @@
   </PIN>
   </NODE>
   <NODE id="249" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="11265" top="11880" width="100" height="100">
+  <BOUNDS type="Node" left="15675" top="15945" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -349,7 +305,7 @@
   </PIN>
   </NODE>
   <NODE id="250" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="11775" top="11190" width="2850" height="0">
+  <BOUNDS type="Box" left="16185" top="15255" width="2850" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -361,7 +317,7 @@
   </PIN>
   </NODE>
   <NODE id="251" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="7815" top="9030" width="100" height="100">
+  <BOUNDS type="Node" left="12225" top="13095" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -373,7 +329,7 @@
   </PIN>
   </NODE>
   <NODE id="252" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8505" top="9705" width="100" height="100">
+  <BOUNDS type="Node" left="12915" top="13770" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -385,13 +341,241 @@
   </PIN>
   </NODE>
   <NODE id="266" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="9285" top="10545" width="100" height="100">
+  <BOUNDS type="Node" left="13695" top="14610" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
   <PIN pinname="Property Name" visible="1" values="|right|">
   </PIN>
   <PIN pinname="Property Value" visible="1" values="|5%|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="267" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14730" top="7140" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|img|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="268" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="15480" top="7950" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|src|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="269" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="16230" top="7125" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|images/soundcloud.png|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="270" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="12690" top="5565" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|a|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="271" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="13440" top="6375" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|href|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="272" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="14190" top="5535" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|https://soundcloud.com/4lbertfx|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="273" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="17100" top="6390" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|target|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="274" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="17850" top="5550" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|_blank|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="275" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="15585" top="10440" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|img|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="276" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="16335" top="11250" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|src|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="277" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="17085" top="10425" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|images/bandcamp.png|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="278" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="13545" top="8865" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|a|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="279" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14295" top="9675" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|href|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="280" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="15045" top="8835" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|https://4fxmusic.bandcamp.com/|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="281" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="17955" top="9690" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|target|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="282" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="18705" top="8850" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|_blank|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -406,13 +590,9 @@
   </LINK>
   <LINK srcnodeid="215" srcpinname="Layers Out" dstnodeid="217" dstpinname="Element">
   </LINK>
-  <LINK srcnodeid="222" srcpinname="Layers Out" dstnodeid="223" dstpinname="Element">
-  </LINK>
   <LINK srcnodeid="227" srcpinname="Layers Out" dstnodeid="228" dstpinname="Element">
   </LINK>
   <LINK srcnodeid="229" srcpinname="Output String" dstnodeid="228" dstpinname="Attribute Value">
-  </LINK>
-  <LINK srcnodeid="230" srcpinname="Output String" dstnodeid="223" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="232" dstpinname="Element">
   </LINK>
@@ -440,8 +620,6 @@
   </LINK>
   <LINK srcnodeid="215" srcpinname="Layers Out" dstnodeid="227" dstpinname="Parent">
   </LINK>
-  <LINK srcnodeid="215" srcpinname="Layers Out" dstnodeid="222" dstpinname="Parent">
-  </LINK>
   <LINK srcnodeid="227" srcpinname="Layers Out" dstnodeid="248" dstpinname="Parent">
   </LINK>
   <LINK srcnodeid="248" srcpinname="Layers Out" dstnodeid="245" dstpinname="_ Layers out">
@@ -449,5 +627,37 @@
   <LINK srcnodeid="252" srcpinname="Style Out" dstnodeid="266" dstpinname="Style In">
   </LINK>
   <LINK srcnodeid="266" srcpinname="Style Out" dstnodeid="248" dstpinname="Style In">
+  </LINK>
+  <LINK srcnodeid="267" srcpinname="Layers Out" dstnodeid="268" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="269" srcpinname="Output String" dstnodeid="268" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="270" srcpinname="Layers Out" dstnodeid="271" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="272" srcpinname="Output String" dstnodeid="271" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="270" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="270" srcpinname="Layers Out" dstnodeid="267" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="274" srcpinname="Output String" dstnodeid="273" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="270" srcpinname="Layers Out" dstnodeid="273" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="278" srcpinname="Layers Out" dstnodeid="275" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="275" srcpinname="Layers Out" dstnodeid="276" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="277" srcpinname="Output String" dstnodeid="276" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="278" srcpinname="Layers Out" dstnodeid="279" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="280" srcpinname="Output String" dstnodeid="279" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="278" srcpinname="Layers Out" dstnodeid="281" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="282" srcpinname="Output String" dstnodeid="281" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="278" dstpinname="Parent">
   </LINK>
   </PATCH>
