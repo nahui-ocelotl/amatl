@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="20235" height="21720">
+  <BOUNDS type="Window" width="18705" height="21720">
   </BOUNDS>
   <NODE id="1" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="3900" top="285" width="100" height="100">
@@ -39,7 +39,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-2 bg-black|">
+  <PIN pinname="Input String" visible="1" values="|col-3 bg-black|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>

@@ -127,7 +127,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-10 text-center|">
+  <PIN pinname="Input String" visible="1" values="|col-9 text-center|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -307,7 +307,7 @@
   </PIN>
   </NODE>
   <NODE id="340" nodename="axcan/axcan.v4p" systemname="axcan/axcan" filename="axcan/axcan.v4p" componentmode="Hidden">
-  <BOUNDS type="Node" left="15030" top="9660" width="100" height="100">
+  <BOUNDS type="Node" left="15045" top="9660" width="100" height="100">
   </BOUNDS>
   <PIN pinname="_ Layers out" visible="1">
   </PIN>
@@ -785,7 +785,7 @@
   </PIN>
   </NODE>
   <NODE id="379" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="6795" top="405" width="100" height="100">
+  <BOUNDS type="Node" left="6855" top="330" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -797,7 +797,7 @@
   </PIN>
   </NODE>
   <NODE id="380" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="7470" top="990" width="100" height="100">
+  <BOUNDS type="Node" left="7935" top="210" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -809,13 +809,37 @@
   </PIN>
   </NODE>
   <NODE id="381" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="8145" top="1515" width="100" height="100">
+  <BOUNDS type="Node" left="8490" top="810" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
   <PIN pinname="Property Name" visible="1" values="|background-repeat|">
   </PIN>
   <PIN pinname="Property Value" visible="1" values="|no-repeat|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="382" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="9345" top="1470" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Property Name" visible="1" values="|background-position|">
+  </PIN>
+  <PIN pinname="Property Value" visible="1" values="|center|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="383" nodename="Style (HTML)" systemname="Style (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="6180" top="2370" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Property Name" visible="1" values="|font-family|">
+  </PIN>
+  <PIN pinname="Property Value" visible="1" values="|courier|">
   </PIN>
   <PIN pinname="Descriptive Name" visible="0" values="||">
   </PIN>
@@ -926,10 +950,14 @@
   </LINK>
   <LINK srcnodeid="380" srcpinname="Style Out" dstnodeid="381" dstpinname="Style In">
   </LINK>
-  <LINK srcnodeid="381" srcpinname="Style Out" dstnodeid="211" dstpinname="Style In">
-  </LINK>
   <LINK srcnodeid="344" srcpinname="Layers Out" dstnodeid="378" dstpinname="Parent">
   </LINK>
   <LINK srcnodeid="344" srcpinname="Layers Out" dstnodeid="347" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="381" srcpinname="Style Out" dstnodeid="382" dstpinname="Style In">
+  </LINK>
+  <LINK srcnodeid="382" srcpinname="Style Out" dstnodeid="211" dstpinname="Style In">
+  </LINK>
+  <LINK srcnodeid="383" srcpinname="Style Out" dstnodeid="379" dstpinname="Style In">
   </LINK>
   </PATCH>
