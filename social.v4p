@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="20490" height="10155">
+  <BOUNDS type="Window" width="18705" height="21720">
   </BOUNDS>
   <NODE id="1" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="3900" top="285" width="100" height="100">
@@ -1198,6 +1198,6 @@
   </LINK>
   <LINK srcnodeid="75" srcpinname="Output String" dstnodeid="74" dstpinname="Attribute Value">
   </LINK>
-  <LINK srcnodeid="76" srcpinname="Output Node" dstnodeid="1" dstpinname="Style In">
+  <LINK srcnodeid="76" srcpinname="Output Node" dstnodeid="1" dstpinname="Parent">
   </LINK>
   </PATCH>
