@@ -353,7 +353,7 @@
   </PIN>
   </NODE>
   <NODE id="267" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13605" top="12975" width="100" height="100">
+  <BOUNDS type="Node" left="13800" top="16335" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -371,7 +371,7 @@
   </PIN>
   </NODE>
   <NODE id="268" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="14355" top="13785" width="100" height="100">
+  <BOUNDS type="Node" left="14550" top="17145" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -385,7 +385,7 @@
   </PIN>
   </NODE>
   <NODE id="269" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="15105" top="12960" width="0" height="0">
+  <BOUNDS type="Box" left="15300" top="16320" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -397,7 +397,7 @@
   </PIN>
   </NODE>
   <NODE id="270" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="12990" top="11370" width="100" height="100">
+  <BOUNDS type="Node" left="13185" top="14730" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -415,7 +415,7 @@
   </PIN>
   </NODE>
   <NODE id="271" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13740" top="12180" width="100" height="100">
+  <BOUNDS type="Node" left="13935" top="15540" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -429,7 +429,7 @@
   </PIN>
   </NODE>
   <NODE id="272" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="14490" top="11340" width="0" height="0">
+  <BOUNDS type="Box" left="14685" top="14700" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -441,7 +441,7 @@
   </PIN>
   </NODE>
   <NODE id="273" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17400" top="12195" width="100" height="100">
+  <BOUNDS type="Node" left="17595" top="15555" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -455,7 +455,7 @@
   </PIN>
   </NODE>
   <NODE id="274" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18150" top="11355" width="0" height="0">
+  <BOUNDS type="Box" left="18345" top="14715" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -467,7 +467,7 @@
   </PIN>
   </NODE>
   <NODE id="275" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13500" top="16305" width="100" height="100">
+  <BOUNDS type="Node" left="13695" top="19665" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -485,7 +485,7 @@
   </PIN>
   </NODE>
   <NODE id="276" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="14250" top="17115" width="100" height="100">
+  <BOUNDS type="Node" left="14445" top="20475" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -499,7 +499,7 @@
   </PIN>
   </NODE>
   <NODE id="277" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="15000" top="16290" width="0" height="0">
+  <BOUNDS type="Box" left="15195" top="19650" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -511,7 +511,7 @@
   </PIN>
   </NODE>
   <NODE id="278" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13350" top="14670" width="100" height="100">
+  <BOUNDS type="Node" left="13545" top="18030" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -529,7 +529,7 @@
   </PIN>
   </NODE>
   <NODE id="279" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="14100" top="15480" width="100" height="100">
+  <BOUNDS type="Node" left="14295" top="18840" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -543,7 +543,7 @@
   </PIN>
   </NODE>
   <NODE id="280" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="14850" top="14640" width="0" height="0">
+  <BOUNDS type="Box" left="15045" top="18000" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -555,7 +555,7 @@
   </PIN>
   </NODE>
   <NODE id="281" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17760" top="15495" width="100" height="100">
+  <BOUNDS type="Node" left="17955" top="18855" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -569,7 +569,7 @@
   </PIN>
   </NODE>
   <NODE id="282" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18510" top="14655" width="0" height="0">
+  <BOUNDS type="Box" left="18705" top="18015" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -581,7 +581,7 @@
   </PIN>
   </NODE>
   <NODE id="283" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17220" top="13695" width="100" height="100">
+  <BOUNDS type="Node" left="17415" top="17055" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -595,7 +595,7 @@
   </PIN>
   </NODE>
   <NODE id="284" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="17970" top="12870" width="0" height="0">
+  <BOUNDS type="Box" left="18165" top="16230" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -607,7 +607,7 @@
   </PIN>
   </NODE>
   <NODE id="285" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17040" top="17085" width="100" height="100">
+  <BOUNDS type="Node" left="17235" top="20445" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -621,7 +621,7 @@
   </PIN>
   </NODE>
   <NODE id="286" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="17790" top="16260" width="0" height="0">
+  <BOUNDS type="Box" left="17985" top="19620" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -633,7 +633,7 @@
   </PIN>
   </NODE>
   <NODE id="287" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13725" top="9735" width="100" height="100">
+  <BOUNDS type="Node" left="13920" top="13095" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -651,7 +651,7 @@
   </PIN>
   </NODE>
   <NODE id="288" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="14475" top="10545" width="100" height="100">
+  <BOUNDS type="Node" left="14670" top="13905" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -665,7 +665,7 @@
   </PIN>
   </NODE>
   <NODE id="289" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="15225" top="9720" width="0" height="0">
+  <BOUNDS type="Box" left="15420" top="13080" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -677,7 +677,7 @@
   </PIN>
   </NODE>
   <NODE id="290" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13110" top="8130" width="100" height="100">
+  <BOUNDS type="Node" left="13305" top="11490" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -695,7 +695,7 @@
   </PIN>
   </NODE>
   <NODE id="291" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13860" top="8940" width="100" height="100">
+  <BOUNDS type="Node" left="14055" top="12300" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -709,7 +709,7 @@
   </PIN>
   </NODE>
   <NODE id="292" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="14610" top="8100" width="0" height="0">
+  <BOUNDS type="Box" left="14805" top="11460" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -721,7 +721,7 @@
   </PIN>
   </NODE>
   <NODE id="293" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17520" top="8955" width="100" height="100">
+  <BOUNDS type="Node" left="17715" top="12315" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -735,7 +735,7 @@
   </PIN>
   </NODE>
   <NODE id="294" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18270" top="8115" width="0" height="0">
+  <BOUNDS type="Box" left="18465" top="11475" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -747,7 +747,7 @@
   </PIN>
   </NODE>
   <NODE id="295" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17340" top="10455" width="100" height="100">
+  <BOUNDS type="Node" left="17535" top="13815" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -761,7 +761,7 @@
   </PIN>
   </NODE>
   <NODE id="296" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18090" top="9630" width="0" height="0">
+  <BOUNDS type="Box" left="18285" top="12990" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -773,7 +773,7 @@
   </PIN>
   </NODE>
   <NODE id="297" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13740" top="6615" width="100" height="100">
+  <BOUNDS type="Node" left="13935" top="9975" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -791,7 +791,7 @@
   </PIN>
   </NODE>
   <NODE id="298" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="14490" top="7425" width="100" height="100">
+  <BOUNDS type="Node" left="14685" top="10785" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -805,7 +805,7 @@
   </PIN>
   </NODE>
   <NODE id="299" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="15240" top="6600" width="0" height="0">
+  <BOUNDS type="Box" left="15435" top="9960" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -817,7 +817,7 @@
   </PIN>
   </NODE>
   <NODE id="300" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13125" top="5010" width="100" height="100">
+  <BOUNDS type="Node" left="13320" top="8370" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
@@ -835,7 +835,7 @@
   </PIN>
   </NODE>
   <NODE id="301" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="13875" top="5820" width="100" height="100">
+  <BOUNDS type="Node" left="14070" top="9180" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -849,7 +849,7 @@
   </PIN>
   </NODE>
   <NODE id="302" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="14625" top="4980" width="0" height="0">
+  <BOUNDS type="Box" left="14820" top="8340" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -861,7 +861,7 @@
   </PIN>
   </NODE>
   <NODE id="303" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17535" top="5835" width="100" height="100">
+  <BOUNDS type="Node" left="17730" top="9195" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -875,7 +875,7 @@
   </PIN>
   </NODE>
   <NODE id="304" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18285" top="4995" width="0" height="0">
+  <BOUNDS type="Box" left="18480" top="8355" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -887,7 +887,7 @@
   </PIN>
   </NODE>
   <NODE id="305" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
-  <BOUNDS type="Node" left="17355" top="7335" width="100" height="100">
+  <BOUNDS type="Node" left="17550" top="10695" width="100" height="100">
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
@@ -901,7 +901,287 @@
   </PIN>
   </NODE>
   <NODE id="306" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="18105" top="6510" width="0" height="0">
+  <BOUNDS type="Box" left="18300" top="9870" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|img-fluid|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="307" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14025" top="6690" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|img|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="308" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14775" top="7500" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|src|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="309" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="15525" top="6675" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|images/blogger.png|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="310" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="13410" top="5085" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|a|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="311" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14160" top="5895" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|href|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="312" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="14910" top="5055" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|https://nahui-ocelotl.blogspot.com/|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="313" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="17820" top="5910" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|target|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="314" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="18570" top="5070" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|_blank|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="315" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="17640" top="7410" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|class|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="316" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="18390" top="6585" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|img-fluid|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="317" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14010" top="22740" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|img|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="318" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14760" top="23550" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|src|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="319" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="15510" top="22725" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|images/moodle.png|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="320" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="13860" top="21105" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Style In" visible="1">
+  </PIN>
+  <PIN pinname="Tag Name" visible="1" values="|a|">
+  </PIN>
+  <PIN pinname="Parent" visible="1">
+  </PIN>
+  <PIN pinname="Text" visible="1">
+  </PIN>
+  <PIN pinname="Enabled" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Names" visible="0" values="||">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="321" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="14610" top="21915" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|href|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="322" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="15360" top="21075" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|http://nahui-ocelotl.com/moodle|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="323" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="18270" top="21930" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|target|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="324" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="19020" top="21090" width="0" height="0">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|_blank|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="325" nodename="SetAttribute (HTML)" systemname="SetAttribute (HTML)" componentmode="Hidden">
+  <BOUNDS type="Node" left="17550" top="23520" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Element" visible="1">
+  </PIN>
+  <PIN pinname="Attribute Name" visible="1" values="|class|">
+  </PIN>
+  <PIN pinname="Attribute Value" visible="1">
+  </PIN>
+  <PIN pinname="Attribute BinSize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="326" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="18300" top="22695" width="0" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -1039,5 +1319,45 @@
   <LINK srcnodeid="306" srcpinname="Output String" dstnodeid="305" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="300" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="310" srcpinname="Layers Out" dstnodeid="307" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="307" srcpinname="Layers Out" dstnodeid="308" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="309" srcpinname="Output String" dstnodeid="308" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="310" srcpinname="Layers Out" dstnodeid="311" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="312" srcpinname="Output String" dstnodeid="311" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="310" srcpinname="Layers Out" dstnodeid="313" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="314" srcpinname="Output String" dstnodeid="313" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="307" srcpinname="Layers Out" dstnodeid="315" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="316" srcpinname="Output String" dstnodeid="315" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="310" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="320" srcpinname="Layers Out" dstnodeid="317" dstpinname="Parent">
+  </LINK>
+  <LINK srcnodeid="317" srcpinname="Layers Out" dstnodeid="318" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="319" srcpinname="Output String" dstnodeid="318" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="320" srcpinname="Layers Out" dstnodeid="321" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="322" srcpinname="Output String" dstnodeid="321" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="320" srcpinname="Layers Out" dstnodeid="323" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="324" srcpinname="Output String" dstnodeid="323" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="317" srcpinname="Layers Out" dstnodeid="325" dstpinname="Element">
+  </LINK>
+  <LINK srcnodeid="326" srcpinname="Output String" dstnodeid="325" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="231" srcpinname="Layers Out" dstnodeid="320" dstpinname="Parent">
   </LINK>
   </PATCH>
