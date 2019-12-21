@@ -891,7 +891,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -905,7 +905,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|64%|">
+  <PIN pinname="Input String" visible="1" values="|75%|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -917,7 +917,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -931,7 +931,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -945,7 +945,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -959,7 +959,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -973,7 +973,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|height|">
+  <PIN pinname="Attribute Name" visible="1" values="|width|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>

@@ -843,7 +843,7 @@
   </BOUNDS>
   <PIN pinname="Style In" visible="1">
   </PIN>
-  <PIN pinname="Tag Name" visible="1" values="|p|">
+  <PIN pinname="Tag Name" visible="1" values="||">
   </PIN>
   <PIN pinname="Parent" visible="1">
   </PIN>
@@ -972,6 +972,6 @@
   </LINK>
   <LINK srcnodeid="344" srcpinname="Layers Out" dstnodeid="385" dstpinname="Parent">
   </LINK>
-  <LINK srcnodeid="385" srcpinname="Layers Out" dstnodeid="347" dstpinname="Parent">
+  <LINK srcnodeid="344" srcpinname="Layers Out" dstnodeid="347" dstpinname="Parent">
   </LINK>
   </PATCH>
