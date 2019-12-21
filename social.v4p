@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
   <PATCH>
-  <BOUNDS type="Window" width="18705" height="21720">
+  <BOUNDS type="Window" width="20235" height="21720">
   </BOUNDS>
   <NODE id="1" nodename="Element (HTML)" systemname="Element (HTML)" componentmode="Hidden">
   <BOUNDS type="Node" left="3900" top="285" width="100" height="100">
@@ -39,7 +39,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|col-3 bg-black|">
+  <PIN pinname="Input String" visible="1" values="|col-2 p-2|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -891,7 +891,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -905,7 +905,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|50%|">
+  <PIN pinname="Input String" visible="1" values="|64%|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
@@ -917,7 +917,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -931,7 +931,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -945,7 +945,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -959,7 +959,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -973,7 +973,7 @@
   </BOUNDS>
   <PIN pinname="Element" visible="1">
   </PIN>
-  <PIN pinname="Attribute Name" visible="1" values="|width|">
+  <PIN pinname="Attribute Name" visible="1" values="|height|">
   </PIN>
   <PIN pinname="Attribute Value" visible="1">
   </PIN>
@@ -1090,8 +1090,6 @@
   </LINK>
   <LINK srcnodeid="51" srcpinname="Output String" dstnodeid="50" dstpinname="Attribute Value">
   </LINK>
-  <LINK srcnodeid="44" srcpinname="Layers Out" dstnodeid="52" dstpinname="Element">
-  </LINK>
   <LINK srcnodeid="53" srcpinname="Output String" dstnodeid="52" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="57" srcpinname="Layers Out" dstnodeid="54" dstpinname="Parent">
@@ -1139,5 +1137,7 @@
   <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="72" dstpinname="Attribute Value">
   </LINK>
   <LINK srcnodeid="65" srcpinname="Output String" dstnodeid="74" dstpinname="Attribute Value">
+  </LINK>
+  <LINK srcnodeid="44" srcpinname="Layers Out" dstnodeid="52" dstpinname="Element">
   </LINK>
   </PATCH>
