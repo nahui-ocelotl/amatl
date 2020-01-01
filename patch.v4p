@@ -879,7 +879,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|tzino - mexican common cards|">
+  <PIN pinname="Input String" visible="1" values="|tzino - mexican/spanish common cards|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
