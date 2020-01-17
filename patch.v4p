@@ -123,7 +123,7 @@
   </PIN>
   </NODE>
   <NODE id="229" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="3405" top="3915" width="2355" height="0">
+  <BOUNDS type="Box" left="3495" top="3930" width="2355" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
@@ -195,11 +195,11 @@
   </PIN>
   </NODE>
   <NODE id="240" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
-  <BOUNDS type="Box" left="2235" top="6465" width="1350" height="0">
+  <BOUNDS type="Box" left="2205" top="6465" width="1350" height="0">
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|Alberto Barrios L. Tlachihualiztli|">
+  <PIN pinname="Input String" visible="1" values="|Alberto Barrios L. CDMX|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
