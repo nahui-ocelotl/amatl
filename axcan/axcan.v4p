@@ -153,7 +153,7 @@
   </BOUNDS>
   <PIN pinname="Input 1" visible="1">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|9|">
+  <PIN pinname="Input 2" visible="1" values="|10|">
   </PIN>
   <PIN pinname="Input Count" visible="0" values="|2|">
   </PIN>
@@ -165,7 +165,7 @@
   </BOUNDS>
   <PIN pinname="Input 1" visible="1">
   </PIN>
-  <PIN pinname="Input 2" visible="1" values="|8|">
+  <PIN pinname="Input 2" visible="1" values="|13|">
   </PIN>
   <PIN pinname="Input Count" visible="0" values="|2|">
   </PIN>
@@ -359,7 +359,7 @@
   </BOUNDS>
   <PIN pinname="SliceOffset" visible="1">
   </PIN>
-  <PIN pinname="Input String" visible="1" values="|Atlcahualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|,|Atlcaualo|">
+  <PIN pinname="Input String" visible="1" values="|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|,|Atlcahualo|">
   </PIN>
   <PIN pinname="Rows" visible="0" values="|1|">
   </PIN>
